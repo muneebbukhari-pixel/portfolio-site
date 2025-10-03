@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: mediumslateblue;
+    background: linear-gradient(to right, mediumslateblue, lightblue);
     color: white;
     padding: 20px;
     text-align: center;
@@ -54,7 +54,7 @@ img, video {
 }
 
 footer {
-    background-color: lightsteelblue;
+    background: linear-gradient(45deg, lightsteelblue, mediumslateblue);
     color: white;
     text-align: center;
     padding: 15px;
